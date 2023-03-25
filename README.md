@@ -1,9 +1,6 @@
 # testrepo
 testing the "autogit" project's functions
-a
-b
-NEWa
 
-zatt'r'r 
-a
-asaa
+
+
+PIRT
